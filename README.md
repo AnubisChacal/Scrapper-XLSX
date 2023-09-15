@@ -9,7 +9,7 @@ O "scraper" tem como objetivo percorrer as colunas de um arquivo no formato .xls
   
 - Faça a instalação do WebDriver do browser
     - Colocar o Webdriver dentro da pasta aonde o python esteja instaldo que geramente é:
-         ## C:\Users\ <Seu user> \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11
+         ## C:\Users\ Seu user \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11
   
   ### ⚠️Atenção⚠️
   É necessario fazer a instalação do WebDriver referente ao browser que esta seno utilizado tanto no programa quanto na maquina.
