@@ -19,7 +19,7 @@ driver = webdriver.Firefox(options=options)
 #======================================================================
 
 # URL do site
-url = 'https://www.voudemake.com.br/'
+url = '-------------------' #Ocultei o site por segurança
 
 # Abra a página da web com o Selenium
 driver.get(url)
